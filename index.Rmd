@@ -12,7 +12,7 @@ output:
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 #let us add some links
 
-I often use [google](google.com) to do data science
+I often use [google](https://www.google.com) to do data science
 
 #leu us add image
 
