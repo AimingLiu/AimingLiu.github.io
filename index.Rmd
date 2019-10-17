@@ -17,6 +17,6 @@ You can learn about me [here](about-me-.html)
 
 I often use [google](https://www.google.com) to do data science
 
-#leu us add image
+#let us add image
 
 ![](image.jpg)
