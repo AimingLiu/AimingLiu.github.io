@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "My awesome website "
 output: 
   html_document:
     toc: true
@@ -7,7 +7,10 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# This is Aiming's awesome website
+ 
+You can learn about me [here](about-me-.html)
+
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 #let us add some links
